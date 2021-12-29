@@ -1,0 +1,1 @@
+The first project that I made is a simple calculator. This can calculate your father's wives, just kidding hehe.
